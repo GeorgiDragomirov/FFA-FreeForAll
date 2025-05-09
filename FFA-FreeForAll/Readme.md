@@ -50,7 +50,7 @@ This project exists to serve people, not to monetize them.
 
 > This project assumes you have .NET SDK, Node.js, and mobile tooling installed.
 
-## 🤝 Contributing
+## 🤝 Contributing!!!
 
 Contributions are welcome! You can:
 - Report bugs
