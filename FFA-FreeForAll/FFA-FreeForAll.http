@@ -1,0 +1,6 @@
+@FFA_FreeForAll_HostAddress = http://localhost:5210
+
+GET {{FFA_FreeForAll_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
